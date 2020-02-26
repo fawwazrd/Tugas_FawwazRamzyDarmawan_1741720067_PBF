@@ -1,0 +1,67 @@
+
+  .judul{
+      text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+    /*ketebalan font*/
+  }
+  
+  
+  
+  .kotak_login {
+    width: 350px;
+    height: 390px;
+    background: white;
+    /*meletakkan form ke tengah*/
+    margin: -10px auto;
+    padding: auto 10px;
+    border-style: solid;
+    border: 1px solid rgb(229, 229, 229)
+  }
+  
+  
+  
+  .form_login {
+    /*membuat lebar form penuh*/
+    box-sizing: border-box;
+    width: 50%;
+    padding:2px;
+    margin-bottom: 10px;
+  }
+  
+  .tombol_login {
+    background: #46de4b;
+    color: white;
+    font-size: 11pt;
+    width: 300px;
+    border: none;
+    padding: 10px 20px;
+  }
+  .tombol_cancel {
+    background: #f00c0c;
+    align-items: center;
+    color: white;
+    font-size: 6pt;
+    width: 30%;
+    border: none;
+
+  }
+
+  
+  .link {
+    color: #232323;
+    text-decoration: none;
+    font-size: 10pt;
+  }
+  form {
+    overflow: hidden;
+}
+ 
+
+
+
+.bold {
+    font-weight: bold;
+}
