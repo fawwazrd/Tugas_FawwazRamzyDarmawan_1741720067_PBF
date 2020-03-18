@@ -4,8 +4,8 @@ import {
   deleteTodo,
   toggleTodo,
   setVisibilityFilter
-} from "../actions/actionCreator";
-import { SHOW_ALL, SHOW_COMPLETED, SHOW_ACTIVE } from "../actions/actionsTypes";
+} from "../Action/actionCreator";
+import { SHOW_ALL, SHOW_COMPLETED, SHOW_ACTIVE } from "../Action/actionsTypes";
 import { bindActionCreators } from "redux";
 class Table extends Component {
   render() {
