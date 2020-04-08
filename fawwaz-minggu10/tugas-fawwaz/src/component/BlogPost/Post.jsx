@@ -6,7 +6,7 @@ const Post = props => {
       <div className="gambar-artikel">
         <img
           src="http://placeimg.com/80/80/tech"
-          al="Gambar Thumbnail Arikel"
+          alt="Gambar Thumbnail Arikel"
         ></img>
       </div>
       <div className="konten-artikel">

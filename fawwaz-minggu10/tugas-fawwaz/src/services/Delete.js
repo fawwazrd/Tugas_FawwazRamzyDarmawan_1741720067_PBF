@@ -9,5 +9,6 @@ const DeleteAPI = (path, data) => {
         })
 
      })
+     return promise;
     }
     export default DeleteAPI;

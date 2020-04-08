@@ -1,16 +1,13 @@
 {
   "posts": [
     {
-      "userId": 1,
-      "id": 1586344489060,
-      "title": "nanda",
-      "body": "jelek"
-    },
-    {
-      "userId": 1,
-      "id": 1586344504489,
-      "title": "adit",
-      "body": "cengoer"
+      "id": 1586347053337,
+      "nim": "1741720089",
+      "nama": "firnanda",
+      "alamat": "qwerty",
+      "hp": "12342345565",
+      "angkatan": "16",
+      "status": "jomblo"
     }
   ],
   "comments": [],
