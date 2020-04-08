@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1586344489060,
+      "title": "nanda",
+      "body": "jelek"
+    },
+    {
+      "userId": 1,
+      "id": 1586344504489,
+      "title": "adit",
+      "body": "cengoer"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
