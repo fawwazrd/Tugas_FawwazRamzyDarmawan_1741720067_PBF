@@ -1,15 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1586347053337,
-      "nim": "1741720089",
-      "nama": "firnanda",
-      "alamat": "qwerty",
-      "hp": "12342345565",
-      "angkatan": "16",
-      "status": "jomblo"
-    }
-  ],
+  "posts": [],
   "comments": [],
   "profile": {
     "name": "typicode"
